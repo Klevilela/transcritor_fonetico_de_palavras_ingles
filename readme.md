@@ -7,5 +7,7 @@ a transcrição fonética e sua respectiva pronúnicia
 COLABORADORES DO PROJETO
 
 FRANCISCO ALESSANDRO
+
 GABRIEL SILVA LEAL
+
 KLEBERSON VILELA

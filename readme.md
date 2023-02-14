@@ -22,3 +22,4 @@ Para uma memorização mais eficiente é necessário a conversão do conteúdo e
 * KLEBERSON VILELA
 
 Metodologia: Scrum
+Ferramenta de gestão de projeto: Microsoft Teams, Jira

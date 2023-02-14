@@ -17,7 +17,7 @@ Para uma memorização mais eficiente é necessário a conversão do conteúdo e
 
 # COLABORADORES DO PROJETO
 
-* FRANCISCO ALESSANDRO
+* FRANCISCO ALEXANDRO
 * GABRIEL SILVA LEAL
 * KLEBERSON VILELA
 
